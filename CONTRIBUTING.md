@@ -313,3 +313,11 @@
 - Place: Bangalore, Karnataka, India.
 - Bio: Undergrad from BIT, Bangalore | Dedicated and enthusiastic learner for software development and technology
 - GitHub: [Nirbheek Kumar](https://github.com/NirbheekKumar)
+
+#### Name: [Harish](https://github.com/Harish090904)
+ 
+ -Place: Vellore, Tamilnadu, India
+ -Bio: College Student | Full Stack Developer
+ -GitHub: [Harish090904](https://github.com/Harish090904)
+ -Linkedin: [Harish Sridharan](https://www.linkedin.com/in/harishs2026)
+
